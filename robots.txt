@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://lxmusic.docs.folltoshe.com/sitemap.xml
+Sitemap: https://docs.lxmusic.folltoshe.com/sitemap.xml
