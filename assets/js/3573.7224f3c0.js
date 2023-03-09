@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklx_music_docs=self.webpackChunklx_music_docs||[]).push([[3573],{3573:(a,d,s)=>{s.r(d),s.d(d,{default:()=>e});const c="mindmap",e={id:c,detector:a=>null!==a.match(/^\s*mindmap/),loader:async()=>{const{diagram:a}=await s.e(3041).then(s.bind(s,3041));return{id:c,diagram:a}}}}}]);
