@@ -1,5 +1,0 @@
-
-User-agent:*
-Disallow:
-
-Sitemap: https://docs.lxmusic.folltoshe.com/sitemap.xml
