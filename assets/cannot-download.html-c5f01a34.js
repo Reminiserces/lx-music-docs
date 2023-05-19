@@ -1,1 +1,0 @@
-import{_ as n,X as o,Y as t,Z as e}from"./framework-626c655f.js";const c={},s=e("p",null,"无",-1),_=e("p",null,[e("s",null,"或者你觉得你的技术过硬，也可以使用Termux+VNCViewer来在手机上运行PC版的LX Music进行下载")],-1),l=[s,_];function a(r,d){return o(),t("div",null,l)}const u=n(c,[["render",a],["__file","cannot-download.html.vue"]]);export{u as default};
