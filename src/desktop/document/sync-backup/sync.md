@@ -35,7 +35,7 @@ title: 同步功能
 
 ### 图片教程
 
-![img](https://i3.mjj.rip/2023/07/11/dcfca98c5b5ae6b7d4dd27cee5b13eda.jpeg)
+![img](https://i.mji.rip/2023/07/17/25c768cea4c9e645fe7178b996d42a6f.jpeg)
 
 
 ### 服务端模式
